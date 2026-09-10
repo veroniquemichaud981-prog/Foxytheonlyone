@@ -12,9 +12,9 @@ The tracked files are:
 - `LICENSE` - Apache License 2.0
 - `.gitignore` - ignore rules for Android/Gradle development
 
-## Technologies indicated by the repository
+## Possible technologies suggested by the repository
 
-There is no application code yet, so the active technology stack is not fully defined. However, the `.gitignore` file suggests the repository is intended for:
+There is no application code yet, so the active technology stack is not fully defined. The strongest available clue is the `.gitignore` file, which suggests the repository may eventually use:
 
 - Android development
 - Gradle-based builds
@@ -45,4 +45,4 @@ If this repository grows into an Android application, you would usually expect t
 
 ## Summary
 
-The repository is currently minimal and documentation-focused. The only strong signal about its future direction is the Android/Gradle-oriented `.gitignore`, which suggests the project is planned to become an Android codebase once source files and build configuration are added.
+The repository is currently minimal and documentation-focused. The only notable signal about a future direction is the Android/Gradle-oriented `.gitignore`, which may mean the project is being prepared for an Android codebase once source files and build configuration are added.

@@ -12,14 +12,16 @@ The tracked files are:
 - `LICENSE` - Apache License 2.0
 - `.gitignore` - ignore rules for Android/Gradle development
 
-## Possible technologies suggested by the repository
+## Signals from the ignore rules
 
-There is no application code yet, so the active technology stack is not fully defined. The strongest available clue is the `.gitignore` file, which suggests the repository may eventually use:
+There is no application code yet, so the active technology stack is not fully defined. The `.gitignore` file is the only technical artifact in the repository, and it contains ignore patterns commonly associated with:
 
-- Android development
-- Gradle-based builds
-- Android Studio or IntelliJ-based development
-- Optional Google/Firebase configuration (`google-services.json` is ignored)
+- Android projects
+- Gradle builds
+- Android Studio or IntelliJ project files
+- Optional Google/Firebase configuration files
+
+These patterns are only hints from repository metadata. They are not proof that the project already includes or uses those tools.
 
 ## How the codebase is currently organized
 
@@ -45,4 +47,4 @@ If this repository grows into an Android application, you would usually expect t
 
 ## Summary
 
-The repository is currently minimal and documentation-focused. The only notable signal about a future direction is the Android/Gradle-oriented `.gitignore`, which may mean the project is being prepared for an Android codebase once source files and build configuration are added.
+The repository is currently minimal and documentation-focused. The only notable technical clue is an Android/Gradle-oriented `.gitignore`, but there is not yet any source code or build configuration confirming an adopted stack.

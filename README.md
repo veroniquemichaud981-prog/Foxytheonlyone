@@ -8,9 +8,9 @@ This repository is currently in a very early stage. At the moment, it contains p
 
 The tracked files are:
 
-- `/home/runner/work/Foxytheonlyone/Foxytheonlyone/README.md` - repository overview and documentation
-- `/home/runner/work/Foxytheonlyone/Foxytheonlyone/LICENSE` - Apache License 2.0
-- `/home/runner/work/Foxytheonlyone/Foxytheonlyone/.gitignore` - ignore rules for Android/Gradle development
+- `README.md` - repository overview and documentation
+- `LICENSE` - Apache License 2.0
+- `.gitignore` - ignore rules for Android/Gradle development
 
 ## Technologies indicated by the repository
 
